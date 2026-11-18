@@ -18,7 +18,7 @@ fn main() {
     };
 
     let app = gtk::Application::builder()
-        .application_id("dev.waymoji.Waymoji")
+        .application_id("dev.olaren.Waymoji")
         .build();
     app.connect_activate(ui::start);
     app.run();

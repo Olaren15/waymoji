@@ -27,7 +27,6 @@ pub(super) fn install_css() {
             opacity: 0.55;
         }
         .waymoji-search {
-            font-size: 15px;
             color: #f5f5f8;
             font-family: monospace;
             background: transparent;
