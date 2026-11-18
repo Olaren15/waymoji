@@ -1,0 +1,15 @@
+[package]
+name = "waymoji"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1"
+async-channel = "2"
+emojis = "0.9"
+gtk = { package = "gtk4", version = "0.11", features = ["v4_12"] }
+gtk4-layer-shell = "0.8"
+rustix = { version = "1", features = ["fs", "event"] }
+wayland-client = "0.31"
+wayland-protocols-misc = { version = "0.3", features = ["client"] }
+xkbcommon = "0.9"
