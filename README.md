@@ -9,6 +9,8 @@ the following protocols:
 - zwp_input_method_v2
 - zwp_virtual_keyboard_v1
 
+![waymoji preview](preview.png)
+
 ## AI usage
 
 Built with AI at the **EXECUTE** level of the [0rwx framework](https://0rwx.com/):
