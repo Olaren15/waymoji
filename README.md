@@ -9,6 +9,11 @@ the following protocols:
 - zwp_input_method_v2
 - zwp_virtual_keyboard_v1
 
+## AI usage
+
+Built with AI at the **EXECUTE** level of the [0rwx framework](https://0rwx.com/):
+AI wrote the code, and I curated it.
+
 ## Usage
 
 Bind `waymoji` to a key in your compositor config.
